@@ -1,0 +1,106 @@
+.nav_top a{
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+/* Секция top */
+
+.top_h1_text{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 70px;
+}
+
+.top_p_text{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.top_a_text{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* Секция mid */
+
+.mid_h2_text{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000;
+}
+
+.mid_h3_text{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000;
+}
+
+.mid_p1_text{
+    font-size: 14px;
+    line-height: 17px;
+    color: #888;
+}
+
+.mid_p2_text{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #050505;
+}
+
+.mid_p3_text{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    text-decoration-line: line-through;
+    color: #888;
+}
+
+/* Блок footer */
+
+.footer_h4_text{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000;
+}
+
+footer a{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #888;
+    text-decoration: none;
+}
+
+.footer_form_p_text{
+    font-size: 14px;
+    line-height: 16px;
+    color: #000;
+}
+
+.footer_form_input{
+    background: #fff;
+    border: 1px solid #c4c4c4;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #c4c4c4;
+}
+
+.footer_form_button{
+    background: rgba(222, 215, 215, 0.41);
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    border-radius: 20px;
+    width: 275px;
+    height: 46px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000;
+}
