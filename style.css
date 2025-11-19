@@ -1,3 +1,24 @@
+/* Обнуление отступов */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Общие правила */
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+/* Header */
+
+header{
+    width: 76px;
+}
+
+
 .nav_top a{
     font-size: 16px;
     line-height: 20px;
@@ -10,11 +31,13 @@
     font-weight: 600;
     font-size: 64px;
     line-height: 70px;
+    padding: 64px 0 16px 0;
 }
 
 .top_p_text{
     font-size: 24px;
     line-height: 32px;
+    padding-bottom: 16px;
 }
 
 .top_a_text{
@@ -29,6 +52,7 @@
     font-size: 48px;
     line-height: 59px;
     color: #000;
+    padding-bottom: 32px;
 }
 
 .mid_h3_text{
@@ -36,12 +60,14 @@
     font-size: 24px;
     line-height: 29px;
     color: #000;
+    padding-bottom: 8px;
 }
 
 .mid_p1_text{
     font-size: 14px;
     line-height: 17px;
     color: #888;
+    padding-bottom: 12px;
 }
 
 .mid_p2_text{
@@ -66,6 +92,7 @@
     font-size: 24px;
     line-height: 29px;
     color: #000;
+    padding-bottom: 12px;
 }
 
 footer a{
@@ -80,6 +107,7 @@ footer a{
     font-size: 14px;
     line-height: 16px;
     color: #000;
+    padding-bottom: 16px;
 }
 
 .footer_form_input{
